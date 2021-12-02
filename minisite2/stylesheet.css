@@ -1,0 +1,25 @@
+body{
+    display: flexbox;
+}
+
+.txt1{
+    text-align: center;
+    width: 50em;
+    height: 100em;
+    display: inline-flexbox;
+}
+
+h1{
+    text-align: center;
+}
+
+.uni{
+    display: inline-flexbox;
+    z-index: 100px;
+    float: right;
+    
+}
+
+.selfie{
+    align-items: center;
+}
